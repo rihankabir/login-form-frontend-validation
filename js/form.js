@@ -20,9 +20,13 @@ $(document).ready(function () {
             isValid = false;
         }
         if(isValid){
-            $(".successmsg").text("Login Successful").css("color", "green");
             $("#email").val("");
             $("#password").val("");
+            $(".successmsg").text("Login Successful").css("color", "green");
+            setTimeout(() => {
+        
+            $(".successmsg").text("");
+            }, 2000 )
         }
     } );
 });
