@@ -22,7 +22,7 @@ $(document).ready(function () {
         if(isValid){
             $("#email").val("");
             $("#password").val("");
-            $(".successmsg").text("Login Successful").css("color", "green");
+            $(".successmsg").text("Login Successful").css("color", "#00ff88");
             setTimeout(() => {
         
             $(".successmsg").text("");

@@ -1,7 +1,7 @@
 .login-section{
     min-height: 100vh;
 
-    background-image: url("../images/login-bg.jpg");
+    background-image: url("../images/holiday.jpg");
 
     background-size: cover;
     background-position: center;
@@ -48,11 +48,12 @@
     color: white;
 }
 h1{
-    color: white;
+    color: rgb(0, 245, 233);
     font-weight: 700;
 }
 .btn-success{
     width: 100%;
     padding: 12px;
     font-size: 18px;
+    
 }
