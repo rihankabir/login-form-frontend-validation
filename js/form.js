@@ -16,5 +16,5 @@ $(document).ready(function () {
             $(".passworderror").text("Password required");
             isValid = false;
         }
-    } )
+    } );
 });
