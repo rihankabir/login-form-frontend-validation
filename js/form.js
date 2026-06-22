@@ -21,7 +21,8 @@ $(document).ready(function () {
         }
         if(isValid){
             $(".successmsg").text("Login Successful").css("color", "green");
-            $("#email").val("")
+            $("#email").val("");
+            $("#password").val("");
         }
     } );
 });
