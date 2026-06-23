@@ -63,4 +63,4 @@ This project was built to practice:
 
 Md Rihanul Kabir
 
-GitHub: https://github.com/rihankabir
+GitHub:  https://rihankabir.github.io/login-form-frontend-validation/
